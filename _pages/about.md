@@ -1,8 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-type: pages
-layout: single
+layout: home
 author_profile: true
 ---
 
