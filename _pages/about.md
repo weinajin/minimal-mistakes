@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-type: pages
+type: posts
 layout: double
 ---
 
