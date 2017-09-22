@@ -3,9 +3,11 @@ title:  "Old research questions"
 tags:
   - question
 ---
+
+
 The following is the research questions I wrote in 2016. They serve as a starting point, so that I can come back to them from time to time. 
 
- # Research Questions June 4, 2016 
+# Research Questions June 4, 2016 
 
 ## Research Question 1:
 
