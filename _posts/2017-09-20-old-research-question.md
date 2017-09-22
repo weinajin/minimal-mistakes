@@ -24,11 +24,11 @@ How could virtual reality and machine learning help to facilitate diagnosis of c
 
 How can machine learning and/or virtual reality visualization help to support medical decision-making?
 
-* My general topic area *
+## My general topic area
 
 How could virtual reality and machine learning technologies help to improve medical diagnosis and treatment?
 
-* What I want to figure out, in no particular order *
+## What I want to figure out, in no particular order
 
 - How could machine learning techniques be applied to automatically recognize medical imagings and data (such as EEG) so that to help predict the potential diseases?
 
