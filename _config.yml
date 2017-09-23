@@ -31,14 +31,14 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'comment']
   branch                 : "master"
-  commitMessage          : "New comment."
+  commitMessage          : "Leave your comment"
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
   path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ['name', 'message']
+  requiredFields         : ['name', 'comment']
   transforms:
     email                : "md5"
   generatedFields:
