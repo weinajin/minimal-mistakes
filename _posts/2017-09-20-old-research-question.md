@@ -10,7 +10,7 @@ tags:
 
 The following is the research questions I wrote in 2016. They serve as a starting point, so that I can come back to them from time to time. 
 
-# Research Questions June 4, 2016 
+# Research Questions | June 4, 2016 
 
 ## Research Question 1:
 
@@ -40,7 +40,7 @@ How could virtual reality and machine learning technologies help to improve medi
 
 
 
-# Research Questions June 13, 2016
+# Research Questions | June 13, 2016
 
 ## Research Question 1: 
 
