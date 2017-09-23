@@ -46,6 +46,9 @@ words_per_minute         : 200
 #       type               : "date"
 #       options:
 #         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+# Staticman comments (full configuration in staticman.yml)
+staticman:
+  branch                 : "master"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
