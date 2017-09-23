@@ -6,10 +6,10 @@ excerpt: "The general landscape of my research interests is the application of t
 tags:
   - question
 ---
-## The big question
+## The big questions
 The general landscape of my research interests is the application of technologies in health/medical area. 
 
-In particular, for health/medicine, I am interested in *neuro/brain related topics*. For technology field, I am interested in *Virtual Reality*, *Artificial Intelligence*, and *Human-Computer Interaction*. 
+In particular, for health/medicine, I am interested in **neuro/brain related topics**. For technology field, I am interested in **Virtual Reality**, **Artificial Intelligence**, and **Human-Computer Interaction**. 
 
 These areas actually have something in common: they touch certain profound topics,  such as:
 - how the brain works (Neurology, Neuroscience, AI) 
