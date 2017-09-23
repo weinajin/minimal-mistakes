@@ -1,6 +1,7 @@
 ---
 title:  "The landscape"
 date:   2017-09-22 11:00:00
+comments: true
 tags:
   - question
 ---
