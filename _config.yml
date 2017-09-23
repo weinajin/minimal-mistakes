@@ -20,7 +20,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # , "facebook", "google-plus" #, "discourse", , "staticman", "custom"
+  provider               : "staticman" #"disqus", "facebook", "google-plus" , "discourse" , "staticman", "custom"
   disqus:
     shortname            : "phdjourney" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -38,7 +38,7 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields         : ['name', 'message']
   transforms:
     email                : "md5"
   generatedFields:
