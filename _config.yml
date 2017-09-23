@@ -19,10 +19,10 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-# comments:
-#   provider               : "staticman" #"disqus", "facebook", "google-plus" , "discourse" , "staticman", "custom"
-#   disqus:
-#     shortname            : "phdjourney" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+comments:
+  provider               : "disqus" #"disqus", "facebook", "google-plus" , "discourse" , "staticman", "custom"
+  disqus:
+    shortname            : "phdjourney" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 #   discourse:
 #     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
 #   facebook:
@@ -30,25 +30,26 @@ words_per_minute         : 200
 #     appid                :
 #     num_posts            : # 5 (default)
 #     colorscheme          : # "light" (default), "dark"
-# staticman:
-#   allowedFields          : ['name', 'email', 'url', 'comment']
-#   branch                 : "master"
-#   commitMessage          : "Leave your comment"
-#   filename               : comment-{@timestamp}
-#   format                 : "yml"
-#   moderation             : true
-#   path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-#   requiredFields         : ['name', 'comment']
-#   transforms:
-#     email                : "md5"
-#   generatedFields:
-#     date:
-#       type               : "date"
-#       options:
-#         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-# Staticman comments (full configuration in staticman.yml)
 staticman:
+  allowedFields          : ['name', 'email', 'url', 'comment']
   branch                 : "master"
+  commitMessage          : "Leave your comment"
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  requiredFields         : ['name', 'comment']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+
+# Staticman comments (full configuration in staticman.yml)
+#staticman:
+#  branch                 : "master"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
