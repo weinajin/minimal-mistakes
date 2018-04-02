@@ -267,6 +267,6 @@ defaults:
 
 # collections
 collections:
-  chinese:
-    output: true
-    permalink: /:collection/:path/
+  - chinese:
+      output: true
+      permalink: /:collection/:path/

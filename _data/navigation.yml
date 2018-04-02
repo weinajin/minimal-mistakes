@@ -4,8 +4,9 @@ main:
     url: /
   - title: "About"
     url: /about
-  - title: "医聊AI"
-    url: /categories/#医聊ai
+#  - title: "医聊AI"
+#    url: /chinese/
+    #url: /categories/#医聊ai
 
 chinese:
   - title: 开篇
