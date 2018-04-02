@@ -251,10 +251,10 @@ defaults:
       comments: # true
       share: true
       related: true
-  # ml_med
+  # chinese
   - scope:
       path: ""
-      type: ml_med
+      type: chinese
     values:
       layout: single
       author_profile: true
@@ -262,10 +262,11 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "chinese"
 
 # collections
 collections:
   chinese:
     output: true
     permalink: /:collection/:path/
-    

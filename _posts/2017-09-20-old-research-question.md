@@ -4,7 +4,7 @@ date:   2017-09-20 10:00:00
 comments: true
 excerpt: "The following is the research questions I wrote in 2016. They serve as a starting point, so that I can come back to them from time to time. "
 tags:
-  - question
+  - Research Question
 ---
 
 

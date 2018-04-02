@@ -4,7 +4,7 @@ date:   2017-09-22 11:00:00
 comments: true
 excerpt: "The general landscape of my research interests is the application of technologies in health/medical area. "
 tags:
-  - question
+  - Research Question
 ---
 ## The big questions
 The general landscape of my research interests is the application of technologies in health/medical area. 
