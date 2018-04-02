@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "PhD Journey"
+title                    : "Weina Jin, MD."
 title_separator          : "-"
 name                     : "Weina Jin"
-description              : "PhD research blog"
+description              : "Machine Learning in Medicine"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Weina Jin"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. 
-  bio              : "Digital health researcher"
+  bio              : "Researcher in medical-related machine learning and human-computer interaction."
   location         : # "Somewhere"
   email            :
   uri              :
