@@ -5,12 +5,12 @@ main:
   - title: "About"
     url: /about
   - title: "医聊AI"
-    url: /chinese
+    url: /chinese/
 
 chinese:
   - title: 开篇
     url: /chinese/ml-med01
-    
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
