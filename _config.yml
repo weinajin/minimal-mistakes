@@ -251,3 +251,21 @@ defaults:
       comments: # true
       share: true
       related: true
+  # ml_med
+  - scope:
+      path: ""
+      type: ml_med
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+
+# collections
+collections:
+  chinese:
+    output: true
+    permalink: /:collection/:path/
+    
