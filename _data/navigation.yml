@@ -4,6 +4,8 @@ main:
     url: /
   - title: "About"
     url: /about
+  - title: "医聊AI"
+    url: /med_ml
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
