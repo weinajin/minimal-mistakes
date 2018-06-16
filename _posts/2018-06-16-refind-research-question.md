@@ -14,8 +14,11 @@ Now that I have identified a research topic/area (finally): to use machine learn
 Here is a summary of my previous research pathway:
 
 Medicine --> Neurology
+
 --> Computer Science
+
     --> Human-Computer Interaction --> Virtual Reality
+    
     --> Machine Learning --> Computer Vision --> Medical imaging analysis --> ?
 
 The question mark at the end will be solved (hopefully) after my three-month research question marathon.
