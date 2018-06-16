@@ -1,5 +1,5 @@
 ---
-title:  "Distill my PhD research questions from iterative thinking"
+title:  "Distill PhD research questions from iterative thinking"
 date:   2018-06-16 10:00:00
 comments: true
 excerpt: "Refine my research question. "
@@ -13,9 +13,9 @@ Now that I have identified a research topic/area (finally): to use machine learn
 
 Here is a summary of my previous research pathway:
 
-Medicine --> Neurology
+  Medicine --> Neurology
 
---> Computer Science
+  --> Computer Science
 
     --> Human-Computer Interaction --> Virtual Reality
 
