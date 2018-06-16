@@ -13,13 +13,13 @@ Now that I have identified a research topic/area (finally): to use machine learn
 
 Here is a summary of my previous research pathway:
 ```
-  Medicine --> Neurology
+Medicine --> Neurology
 
-  --> Computer Science
+--> Computer Science
 
-    --> Human-Computer Interaction --> Virtual Reality
+  --> Human-Computer Interaction --> Virtual Reality
 
-    --> Machine Learning --> Computer Vision --> Medical Imaging Analysis --> ?
+  --> Machine Learning --> Computer Vision --> Medical Imaging Analysis --> ?
 ```
 
 The question mark at the end will be solved (hopefully) after my three-month research question marathon.
@@ -33,3 +33,8 @@ The question mark at the end will be solved (hopefully) after my three-month res
 Interpretability is the recent hot topic in machine learning community. I saw several works on that: [Explain yourself, machine. Producing simple text descriptions for AI interpretability](https://lukeoakdenrayner.wordpress.com/2018/06/05/explain-yourself-machine-producing-simple-text-descriptions-for-ai-interpretability/) and [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
 
 - [placeholder] some questions related to neurology, aging, and medical imaging analysis.
+
+- Human-computer interaction & AI
+
+Inspired by this great paper: [Using Artiﬁcial Intelligence to Augment Human Intelligence
+](https://distill.pub/2017/aia/) and [Michael Jordan's article on Intelligence Augmentation(IA)](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)
