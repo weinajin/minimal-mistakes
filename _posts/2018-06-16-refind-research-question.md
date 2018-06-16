@@ -19,10 +19,11 @@ Here is a summary of my previous research pathway:
 
     --> Human-Computer Interaction --> Virtual Reality
 
-    --> Machine Learning --> Computer Vision --> Medical imaging analysis --> ?
+    --> Machine Learning --> Computer Vision --> Medical Imaging Analysis --> ?
+```
 
 The question mark at the end will be solved (hopefully) after my three-month research question marathon.
-```
+
 
 ---
 [June 16]
