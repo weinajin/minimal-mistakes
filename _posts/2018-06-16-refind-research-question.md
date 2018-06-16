@@ -18,12 +18,13 @@ Medicine --> Neurology
 --> Computer Science
 
     --> Human-Computer Interaction --> Virtual Reality
-    
+
     --> Machine Learning --> Computer Vision --> Medical imaging analysis --> ?
 
 The question mark at the end will be solved (hopefully) after my three-month research question marathon.
 
-* June 16
+---
+[June 16]
 
 - How to make the prediction from machine learning more interpretable by doctors? That's the recent hot topic in machine learning community. I saw several works on that: [Explain yourself, machine. Producing simple text descriptions for AI interpretability](https://lukeoakdenrayner.wordpress.com/2018/06/05/explain-yourself-machine-producing-simple-text-descriptions-for-ai-interpretability/) and [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
 
