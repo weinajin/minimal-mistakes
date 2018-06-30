@@ -34,7 +34,24 @@ Interpretability is the recent hot topic in machine learning community. I saw se
 
 - [placeholder] some questions related to neurology, aging, and medical imaging analysis.
 
-- Human-computer interaction & AI
+- Human-Computer Interaction & AI
 
 Inspired by this great paper: [Using Artiﬁcial Intelligence to Augment Human Intelligence
 ](https://distill.pub/2017/aia/) and [Michael Jordan's article on Intelligence Augmentation(IA)](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)
+
+---
+[June 29]
+
+Last week when I was at Banff for AGE-WELL Summer Institute, I came across another research conference on neuroscience and dementia. I sneak into the poster room and was so fascinated by the brain imaging. Yes! Just at that moment, I re-found the area I will invest my intelligence and time in: neuroimaging analysis with machine learning; neuro computing/informatics.
+
+```
+Medicine --> Neurology
+
+--> Computer Science
+
+  --> Human-Computer Interaction --> Virtual Reality
+
+  --> Machine Learning --> Computer Vision --> Medical Imaging Analysis --> Neuroimaging Analysis
+```
+
+Seems so obvious when I connected the dots ;)
