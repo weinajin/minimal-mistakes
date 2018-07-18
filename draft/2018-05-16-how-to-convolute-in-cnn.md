@@ -1,5 +1,5 @@
 ---
-title:  "How to convolute in CNN"
+title:  "How to understand *convolution* in Convolutional Neural Network?"
 date:   2018-05-16 17:00:00
 comments: true
 excerpt: ". "
@@ -11,4 +11,4 @@ Convolutional layer is the basic and main building block of CNN (Convolutional N
 
 > For the input layer, how do I convolute the RGB color image?
 
-Unlike the grayscale image which is a matrix, 
+Unlike the grayscale image which is a matrix,
