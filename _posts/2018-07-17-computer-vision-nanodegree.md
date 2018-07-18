@@ -4,7 +4,7 @@ date:   2018-07-17 10:00:00
 comments: true
 #excerpt: ". "
 tags:
-  - computer vision; MOOC
+  - computer vision, MOOC
 ---
 
 
