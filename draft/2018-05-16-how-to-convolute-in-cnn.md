@@ -1,34 +1,77 @@
 ---
-title:  "Why deep learning for computer vision?"
-date:   2018-07-23 10:00:00
+title:  "A friendly introduction to convolution in CNN"
+date:   2018-05-16 17:00:00
 comments: true
-excerpt: "Design network architectures to solve computer vision tasks, why? "
+excerpt: ". "
 tags:
-  - [deep learning, computer vision]
+  - cnn
 ---
 
 
+A friendly introduction to convolution in CNN
+
+"Convolution" is one of the most mysterious words for a novice deep learner. The first time when I opened [wikipedia on convolution](https://en.wikipedia.org/wiki/Convolution) and tried to make sense, I just got dizzy and lost. After a long time mingling with CNN and a bit on signal processing, I finally figure it out a little better. In my current understanding, the convolution is just **a fancy operation of weighted sum**. Here is the story:
+
+To see what is a weighted sum, Let's begin with the following expression, which may remind you of algebra in high school:
+
+y = w1 * x1+w2 * x2
+
+y = \sum w_i * x_i
+
+The different weights reflect how important you think of each variables x_1 and x_2. For example, if you want to calculate a class score from the midterm exam and final exam, the weights reflect how you value each exam score. **Weights reflect how important you think a variable is in a numerical perspective**. And **sum is just an operation that condenses your deliberate thought on each variable into one final value** (like the final score).
+
+]//As a side note, I'd like to regard it as the projection from high dimensional space (where all x_i reside) to 1 dimension (y is just a dot). But if you don't understand this paragraph, you can go ahead to ignore it. It will have little to do with the whole story.
+
+This works totally well when the number of x_i  is small. But what if the number of x_i becomes large, say 1,000,000, or even infinite, how do we assign each x_i a weight respectively?
+
+Here are the tricks:
+Instead of using a single number $y$ to describe $x$ sequence, now we use a group of numbers. That's because a single number compresses the information of too much so that it could not reflect the character of $x$ very well.
+
+To generate a sequence of numbers out of $x$, there are many different ways. If we assign all the $x$ with the same weight, it doesn't compress nor extract any new information from "our perspective". It equals? to treating each $x_i$ equally, therefore doesn't add our additional thoughts on different characters in $x$. Another extreme is to assign each $x$ with a distinct weight. This reflects our thought on each $x_i$ in very fine detail, but it is too costly and redundant to express the weight sequence: we'll need to use as many as the numbers in $x$ to express the weights.
+
+How to express rich weights that represent our thoughts, meanwhile keep the weight size as small as possible?
+One solution is to use repetitive weight sequence. In this way, we can repeat the weight as many as the number of $x$, meanwhile, we can express it with a short sequence of numbers. If we notice there are repetitive patterns in many sequences, such as ups and downs, this approach makes more sense.
+
+Condense the local information from x_i and its neighbors.
+It's like playing a pattern matching game, which you try to identify a pattern from a large picture.
+
+For now, we've talked a lot about the sequence, but what does it to do with convolution and image, you may ask. The above is just how to calculate convolution in 1-dimensional data. The convolution in CNN for analyzing image is exactly the same way, with the extension to 2-dimensional image data.
 
 
-These days I am reading computer vision papers. After reading a bunch of papers on image classification, object detection, segmentation, I realized the main theme emerging from the research approaches: to design CNN-based network, especially end-to-end architectures, to solve a specific CV task. I didn't think deeply about the rationale behind it until I read the FlowNet paper. FlowNet is a well-designed CNN architecture to estimate optical flow in the video. If there exist some good algorithms to calculate optical flow, why bother to design such a sophisticated CNN like FlowNet. It is like to calculate the mean or other straightforward statistics with CNN. It turns out that estimating optical flow is a much difficult problem, and FlowNet outperforms traditional computer vision methods regarding accuracy in small displacement, or even speed . ??
-
-What kind of problem is CNN good at? The problems can't be well addressed by previous methods. Although I am quite new to CV, I have the gut feeling that the research trends in CV have shifted from designing better hand-engineered features to designing better architectures to enable CNN to extract features automatically. It all began since 2012 when AlexNet won the ImageNet classification contest. What I don't quite understand is why design different architectures or loss functions will incentify the deep learning model to approach an optimal hypothesis in the super high-dimensional hypothesis space?
-
-This problem kept haunting me for a few days, until one night when I was preparing bath water for my toddler son. I threw a new toy into his bathtub and thought I will teach him how to play after my toothbrush. He already began to hold up the cup and observe how the water runs from different holes, which was exactly the action I was about to teach him! He is no longer the little baby whom I will need to teach for every step on how to play. As long as he is equipped with a variety of toys and environment, he can explore how to play with the new toys by himself, and acquire the desired skills and cognitive development spontaneously.
-
-Then I connected my question with my son's story. As an analogy to human learning, previous CV research on hand-craft features is like teach an infant on how to play a toy. The adult needs to find the best route for each step: Step 1. (Run Harris algorithm to calculate descriptors) Step 2. (Detect faces based on the descriptors). Caution: Don't chew on it, or you will destroy the whole system!
-
-Unlike babies, the machines will never grow up unless we change their paradigms. A machine equipped with enough data and a powerful learning algorithm is like a toddler whose mind is ready enough to begins to discover by himself. The rest of the question becomes, how to design the learning environment (model architecture) that could best facilitate the desired learning outcome (better performance on segmentation, object detection, etc.).
-
-I guess that could be the intuition to my question of why bother to design sophisticated CNN architecture.
-
-A few days later, two other readings coincidence my intuition. One is from the Deep Learning book,
-
- Convolution and pooling as an infinitely strong prior
-
-Think CNN as a fully connected net with an infinitely strong prior. This prior says that the function the layer should learn contains only local interactions and is equivalent to translation and small translation (in the case of pooling layer).
-
-Note: the structure of CNN gives prior constraints to the model before it has seen any data. The prior is based on the assumption for a specific task, such as in image classification, the detection of local features regardless of their variation is relatively crucial.
+When I get to know more details about it, and implemented. I found it is no more than an operation.
 
 
-Learning is more like farming, which lets nature do most of the work. ML is all about letting data to do the heavy lifting. Farmers combine seeds with nutrients to grow crops. ML combine knowledge with data to grow programs
+Convolutional layer is the basic and main building block of CNN (Convolutional Neural Network). I recently began to understand more about the convolution computing after a long path. One of my recent question is:
+
+> For the input layer, how do I convolute the RGB color image?
+
+Unlike the grayscale image which is a matrix,
+
+---
+
+May 18
+The convolutional layer is the basic and main building block of CNN (Convolutional Neural Network). I recently began to understand more about the convolution computing after a long path (from CNN, to signal processing, to image processing, back to CNN). This post mainly answers one of my recent questions:
+
+> To feed a color image into the CNN, how do I convolute the image consists of 3 color channels of RGB?
+
+The short answer is: make * the filter to be 3-dimensional * as well, and * sum up * the convoluted results to be a single channel feature map.
+
+1. Why extend the filter to be 3-dimensional as well?
+We can think it in this way: for one-dimensional signal, the filter is as designed as a 1-d array. For grayscale image, the filter is a 2-d matrix. 以此类推, for the 3-layer color image, the filter is also 3-layes accordingly.
+
+2. Why sum up the 3 convoluted results?
+The convolution computation works as follows:
+
+The intuition of filter
+
+The assinged weight for each grid of pixels.
+
+Code implementation
+
+
+Unlike the grayscale image which is a matrix,
+
+June 12
+What's the difference between conv over 3d and 3d CNN, how about 3d CNN with conv over 3 RGB channels (combined the two)?
+
+#ml #AB
