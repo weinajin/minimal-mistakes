@@ -8,4 +8,4 @@ tags:
 ---
 
 
-[Notebook version]({{ "/assets/notebook/friendly_intro_to_convolution.ipynb }})
+[Notebook version]( /assets/notebook/friendly_intro_to_convolution.ipynb)
