@@ -199,7 +199,7 @@ The resulting output from the sum will be a single number $y_n$:
 
 $$ y_n = \sum_{i=0}^{|w|} w_i \times x_{n + i} $$
 
-where $n$ is the start position of $\vec{w}$ on $\vec{x}$, and |w| denotes the length of $\vec{w}$.
+where $n$ is the start position of $\vec{w}$ on $\vec{x}$.
 
 After calculating all the $y_n$ along the sequence of $\vec{x}$, we just complete the convolution operation.  
 
