@@ -8,4 +8,4 @@ tags:
 ---
 
 
-https://github.com/weinajin/ml_notes.git
+[Notebook version]({{ "/assets/notebook/friendly_intro_to_convolution.ipynb }})
