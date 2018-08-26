@@ -25,7 +25,7 @@ The algorithm is as follows (adapted from Hastie et. al [1] and [this post](http
 
 1. Divide the dataset into $K$ cross-validation folds at random.
 
-2. For each fold $k=1,2,...,K$:  # outer loop for evaluation of the model with selected hyperparameter
+2. For each fold $k=1,2,...,K$:  *outer loop for evaluation of the model with selected hyperparameter*
 
     2.1 Let `test` be fold $k$
 
@@ -33,7 +33,7 @@ The algorithm is as follows (adapted from Hastie et. al [1] and [this post](http
 
     2.3 Randomly split `trainval` into $L$ folds
 
-    2.4 For each fold $l= 1,2,...L$: # inner loop for hyperparameter tuning
+    2.4 For each fold $l= 1,2,...L$: *inner loop for hyperparameter tuning*
 
         2.4.1 Let `val` be fold $l$
 
