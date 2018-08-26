@@ -19,6 +19,13 @@ When doing one round CV to evaluate the performance of different models, and sel
 
 The nested CV has an inner loop CV nested in an outer CV. The inner loop is responsible for model selection/hyperparameter tuning (similar to validation set), while the outer loop is for error estimation (test set).
 
+
+
+![nested cross validation](https://i.stack.imgur.com/vh1sZ.png)
+
+Image source: [Cross Validated](https://stats.stackexchange.com/questions/292179/whats-the-meaning-of-nested-resampling)
+
+
 The algorithm is as follows (adapted from Hastie et. al [1] and [this post](https://stats.stackexchange.com/questions/266225/step-by-step-explanation-of-k-fold-cross-validation-with-grid-search-to-optimise)):
 
 **The nested cross validation**
@@ -27,26 +34,26 @@ The algorithm is as follows (adapted from Hastie et. al [1] and [this post](http
 
 2. For each fold $k=1,2,...,K$:  *outer loop for evaluation of the model with selected hyperparameter*
 
-  2.1 Let `test` be fold $k$
+    2.1 Let `test` be fold $k$
 
-  2.2 Let `trainval` be all the data except those in fold $k$
+    2.2 Let `trainval` be all the data except those in fold $k$
 
-  2.3 Randomly split `trainval` into $L$ folds
+    2.3 Randomly split `trainval` into $L$ folds
 
-  2.4 For each fold $l= 1,2,...L$: *inner loop for hyperparameter tuning*
+    2.4 For each fold $l= 1,2,...L$: *inner loop for hyperparameter tuning*
 
-    2.4.1 Let `val` be fold $l$
+      2.4.1 Let `val` be fold $l$
 
-    2.4.2 Let `train` be all the data except those in `test` or `val`
+      2.4.2 Let `train` be all the data except those in `test` or `val`
 
-    2.4.3 Train with each hyperparameter on `train`, and evaluate it on `val`. Keep track of the performance metrics
+      2.4.3 Train with each hyperparameter on `train`, and evaluate it on `val`. Keep track of the performance metrics
 
-  2.5 For each hyperparameter setting, calculate the average metrics score over the $L$ folds, and choose the best hyperparameter setting.
+    2.5 For each hyperparameter setting, calculate the average metrics score over the $L$ folds, and choose the best hyperparameter setting.
 
-  2.6 Train a model with the best hyperparameter on `trainval`. Evaluate its performance on `test` and save the score for fold $k$.
-
+    2.6 Train a model with the best hyperparameter on `trainval`. Evaluate its performance on `test` and save the score for fold $k$.
 
 3. Calculate the mean score over all $K$ folds, and report as the generalization error.
+
 
 
 As for the implementation, [the scikit-learn documentation](http://scikit-learn.org/stable/auto_examples/model_selection/plot_nested_cross_validation_iris.html) points out: the inner loop can call scikit-learn's `GridSearchCV` to achieve grid search of hyperparameter evaluated on the inner loop `val` set, and the outer loop can call `cross_val_score` for generalization error.
