@@ -21,7 +21,7 @@ The nested CV has an inner loop CV nested in an outer CV. The inner loop is resp
 
 The algorithm is as follows (adapted from Hastie et. al [1] and [this post](https://stats.stackexchange.com/questions/266225/step-by-step-explanation-of-k-fold-cross-validation-with-grid-search-to-optimise)):
 
-** The nested cross validation **
+**The nested cross validation**
 
 1. Divide the dataset into $K$ cross-validation folds at random.
 
