@@ -1,8 +1,5 @@
 ---
 permalink: /
-title: "About"
-layout: single
-excerpt: "About Weina"
 title: "About Weina"
 excerpt: "About Weina"
 author_profile: true
