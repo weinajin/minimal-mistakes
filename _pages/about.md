@@ -9,7 +9,7 @@ redirect_from:
 
 **News**
 
-I am conducting a [usability study][31331d16] to identify physicians’ needs and requirements of explainable AI. If you're interested in participate, please contact me.
+I am conducting a [usability study][31331d16] to identify physicians’ needs and requirements of explainable AI. If you're interested in participating, please contact me.
 
   [31331d16]: https://weina.me/projects/doctor-xai-user-study/ "doctor XAI user study"
 
