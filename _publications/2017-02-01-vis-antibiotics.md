@@ -14,5 +14,5 @@ This paper is about the design of an asynchronous collaborative visualization to
 The inappropriate prescription of antibiotics may cause severe medical outcomes such as antibiotic resistance. To prevent such situations and facilitate appropriate antibiotic prescribing, we designed and developed an asynchronous collaborative visual analytics tool. It visualizes the antibiotics' coverage spectrum that allows users choose the most appropriate antibiotics. The asynchronous collaboration around visualization mimics the actual collaboration scenarios in clinical settings, and provides supportive information during physician's decision-making process. Our work contributes to the CSCW community by providing a design prototype to support asynchronous collaboration among healthcare professionals, which is crucial but lacks in many of the present clinical decision support systems.
 
 
-[Download paper here](http://weina.me/files/vis_for_antibiotic_JIN.pdf)
-[Download poster here](http://weina.me/files/Antibiotic_vis_Jin_poster.pdf)
+[Paper](http://weina.me/files/vis_for_antibiotic_JIN.pdf)
+   [Poster](http://weina.me/files/Antibiotic_vis_Jin_poster.pdf)
