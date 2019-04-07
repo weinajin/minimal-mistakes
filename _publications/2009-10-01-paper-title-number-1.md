@@ -1,15 +1,14 @@
 ---
-title: "Cybersickness Prediction with Machine Learning"
+title: "Cybersickness Prediction using Machine Learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about predicting cybersickness with a machine-learning approach.'
 date: 2018-10-01
-venue: 'Journal 1'
-paperurl: 'http://weinajin.github.io/files/cybersickness_ml_JIN.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'IEEE Games, Entertainment, Media Conference (GEM)'
+citation: 'Jin, W., Fan, J., Gromala, D. & Pasquier, P. Automatic Prediction of Cybersickness for Virtual Reality Games. in 2018 IEEE Games, Entertainment, Media Conference (GEM) 1–9 (IEEE, 2018). doi:10.1109/GEM.2018.8516469'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Jin, W., Fan, J., Gromala, D. & Pasquier, P. Automatic Prediction of Cybersickness for Virtual Reality Games. in 2018 IEEE Games, Entertainment, Media Conference (GEM) 1–9 (IEEE, 2018). doi:10.1109/GEM.2018.8516469
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+This paper is about predicting cybersickness with a machine-learning approach.
+
+[Download paper here](http://weinajin.github.io/files/cybersickness_ml_JIN.pdf)
