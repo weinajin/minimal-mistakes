@@ -1,10 +1,10 @@
 ---
-title: "Serious game for serious disease: Diminishing stigma of depression via game experience"
+title: "AS IF: A Game as an Empathy Tool for Experiencing the Activity Limitations of Chronic Pain Patients"
 collection: publications
-excerpt: 'This paper is about the design of a 2D video game to fight against the stigma around depression.'
-date: 2015-10-01
-venue: '2015 IEEE Games Entertainment Media Conference (GEM)'
-citation: 'Jin, W., Gromala, D. & Tong, X. Serious game for serious disease: Diminishing stigma of depression via game experience. in 2015 IEEE Games Entertainment Media Conference (GEM) 1–2 (2015). doi:10.1109/GEM.2015.7377256'
+excerpt: 'This paper is about the design of a body-sensing game that fosters non-patients' empathy for Chronic Pain sufferers.'
+date: 2016-05-01
+venue: 'CHI EA ’16 Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems'
+citation: 'Jin, W., Ulas, S. & Tong, X. AS IF: A Game As an Empathy Tool for Experiencing the Activity Limitations of Chronic Pain Patients. in CHI EA ’16 Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems 172–175 (ACM, 2016). doi:10.1145/2851581.2890369'
 ---
 
 This paper is about the design of a body-sensing game that fosters non-patients' empathy for Chronic Pain sufferers.
