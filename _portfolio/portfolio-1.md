@@ -1,7 +1,7 @@
 ---
 title: "A usability study to identify physicians’ needs and requirements of explainable artificial intelligence"
-<!-- excerpt: "Short description of portfolio item number 1
-<br/><img src='/images/500x300.png'>" -->
+excerpt: "Doctors' need analysis for explainable AI
+<br/><img src='/images/user_need_study.jpg'>"
 collection: portfolio
 ---
 
