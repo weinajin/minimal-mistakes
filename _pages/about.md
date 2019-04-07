@@ -7,12 +7,12 @@ redirect_from:
 ---
 
 
-**News**
+## News
 
 I am conducting a usability study to identify physicians’ needs and requirements of explainable AI. If you're interested in participate, please contact me.
 
 
-## Weina's bio
+## About Weina
 
 Hi, I'm Weina. I'm a PhD student working on **interpretable artificial intelligence (AI)**, and how to use it to augment doctors' **clinical decision making**. It is interdisciplinary research among AI, computer vision, information visualization (InfoVis), human-computer interaction (HCI), and medicine. An explanation is a two-way communication/interaction between AI system and its users, that's where HCI and InfoVis come in. I'm also interested in using explanations for better learning, for both AI (enable AI to learn better by forcing explicit representation) and doctors (learn from those explicit representations to accumulate experience from big clinical data).
 
