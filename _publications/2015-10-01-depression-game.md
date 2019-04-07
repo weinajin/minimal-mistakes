@@ -1,7 +1,7 @@
 ---
 title: "Serious game for serious disease: Diminishing stigma of depression via game experience"
 collection: publications
-excerpt: 'This paper is about the design of a 2D video game to fight against the stigma around depression.'
+excerpt: 'This paper is about the design of a 2D video game to fight against the stigma of depression.'
 date: 2015-10-01
 venue: '2015 IEEE Games Entertainment Media Conference (GEM)'
 citation: 'Jin, W., Gromala, D. & Tong, X. Serious game for serious disease: Diminishing stigma of depression via game experience. in 2015 IEEE Games Entertainment Media Conference (GEM) 1–2 (2015). doi:10.1109/GEM.2015.7377256'

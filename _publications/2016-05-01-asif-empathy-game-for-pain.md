@@ -1,7 +1,7 @@
 ---
-title: "AS IF: A Game as an Empathy Tool for Experiencing the Activity Limitations of Chronic Pain Patients"
+title: "Serious game for serious disease: Diminishing stigma of depression via game experience"
 collection: publications
-excerpt: 'This paper is about the design of a body-sensing game that fosters non-patients' empathy for Chronic Pain sufferers.'
+excerpt: 'This paper is about the design of a 2D video game to fight against the stigma of depression.'
 date: 2016-05-01
 venue: 'CHI EA ’16 Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems'
 citation: 'Jin, W., Ulas, S. & Tong, X. AS IF: A Game As an Empathy Tool for Experiencing the Activity Limitations of Chronic Pain Patients. in CHI EA ’16 Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems 172–175 (ACM, 2016). doi:10.1145/2851581.2890369'
