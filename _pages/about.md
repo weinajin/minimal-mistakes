@@ -1,6 +1,5 @@
 ---
 permalink: /
-excerpt: "About Weina"
 author_profile: true
 redirect_from:
   - /about/
