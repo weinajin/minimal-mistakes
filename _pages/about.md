@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 News
----
+======
 I am conducting a usability study to identify physicians’ needs and requirements of explainable AI. If you're interested in participate, please contact me.
 
 
