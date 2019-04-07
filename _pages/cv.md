@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Clinical Medicine, Peking University, 2011
-* M.D. in Neurology, Peking University, 2013
 * Ph.D in Interactive Arts and Technology, Simon Fraser University, 2021 (expected)
+* M.D. in Neurology, Peking University, 2013
+* B.S. in Clinical Medicine, Peking University, 2011
 
 <!-- Work experience
 ======
