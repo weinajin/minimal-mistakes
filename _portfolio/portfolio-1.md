@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "A usability study to identify physicians’ needs and requirements of explainable artificial intelligence"
+<!-- excerpt: "Short description of portfolio item number 1
+<br/><img src='/images/500x300.png'>" -->
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is an ongoing study in 2019. From the study, I aim to generate a thorough understanding of the specific needs and requirements of explainable AI from healthcare professionals. I hope the findings from our study will inform researchers in the medicine, AI, and human-computer interaction community to have a clearer idea about the end-users’ requirements, could ask more specific research questions that tailor to clinical needs, and design AI systems that better support healthcare professionals’ clinical thinking process.
