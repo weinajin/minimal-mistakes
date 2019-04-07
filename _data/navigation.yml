@@ -4,13 +4,13 @@ main:
     url: /
   - title: "About"
     url: /about
-  - title: "医聊AI"
-    # url: /chinese/
-    url: /categories/#医聊ai
-
-chinese:
-  - title: 开篇
-    url: /chinese/ml-med01
+#   - title: "医聊AI"
+#     # url: /chinese/
+#     url: /categories/#医聊ai
+#
+# chinese:
+#   - title: 开篇
+#     url: /chinese/ml-med01
 
   # - title: "Sample Posts"
   #   url: /year-archive/

@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Weina Jin, MD."
+title                    : "Weina Jin, MD"
 title_separator          : "-"
 name                     : "Weina Jin"
-description              : "Machine Learning in Medicine"
+description              : "Interpretable Machine Learning in Medicine"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -85,9 +85,9 @@ analytics:
 author:
   name             : "Weina Jin"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g.
-  bio              : "Researcher in medical-related machine learning and human-computer interaction."
+  bio              : "Trying hard to make AI explainable for healthcare professionals"
   location         : # "Somewhere"
-  email            :
+  email            : weinaj@sfu.ca
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : weinajin
   gitlab           :
   google_plus      :
   keybase          :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : weina_jin
   vine             :
   weibo            :
   xing             :
