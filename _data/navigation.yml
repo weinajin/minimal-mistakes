@@ -1,20 +1,22 @@
-# main links
+# main links links
 main:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about
-#   - title: "医聊AI"
-#     # url: /chinese/
-#     url: /categories/#医聊ai
-#
-# chinese:
-#   - title: 开篇
-#     url: /chinese/ml-med01
+  - title: "Publications"
+    url: /publications/
 
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
