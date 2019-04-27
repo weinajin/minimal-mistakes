@@ -1,10 +1,10 @@
 ---
 title:  "Tips and pitfalls of deep learning practice"
-date:   2018-09-02 10:00:00
+date:   2019-04-26 10:00:00
 comments: true
 excerpt: "Understanding on happiness"
 tags:
-  - [machine learning, deep learning]
+  - [life]
 ---
 
 Recently I received two interviews from my department (School of Interactive Arts and Technology, SIAT). I post my responses so that to make my recent thoughts tangible. When I formulate the text, I am greatly influenced by self-determination theory[^self-determination theory]. Thanks to my persistent trial-and-error in the past decade, fortunately, I seem to approximate my intrinsic interests starting from my Ph.D. thesis. Now although I am no longer young enough and my career has just started, I already enjoy the vitality and creativity during my thesis research process. When facing my projects, my co-workers, and my family, I also feel less anxious and more peaceful.
