@@ -2,7 +2,7 @@
 title:  "Tips and pitfalls of deep learning practice"
 date:   2018-09-02 10:00:00
 comments: true
-excerpt: "Personal experience of machine learning practice"
+excerpt: "Understanding on happiness"
 tags:
   - [machine learning, deep learning]
 ---
