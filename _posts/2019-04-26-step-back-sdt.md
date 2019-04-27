@@ -7,11 +7,11 @@ tags:
   - [life]
 ---
 
-Recently I received two interviews from my department (School of Interactive Arts and Technology, SIAT). I post my responses so that to make my recent thoughts tangible. When I formulate the text, I am greatly influenced by self-determination theory[^self-determination theory]. Thanks to my persistent trial-and-error in the past decade, fortunately, I seem to approximate my intrinsic interests starting from my Ph.D. thesis. Now although I am no longer young enough and my career has just started, I already enjoy the vitality and creativity during my thesis research process. When facing my projects, my co-workers, and my family, I also feel less anxious and more peaceful.
+Recently I received two interviews from my department (School of Interactive Arts and Technology, SIAT). I post my responses so that to make my recent thoughts tangible. When I formulate the text, I am greatly influenced by self-determination theory[^sdt]. Thanks to my persistent trial-and-error in the past decade, fortunately, I seem to approximate my intrinsic interests starting from my Ph.D. thesis. Now although I am no longer young enough and my career has just started, I already enjoy the vitality and creativity during my thesis research process. When facing my projects, my co-workers, and my family, I also feel less anxious and more peaceful.
 
 
----
-## What motivated you to pursue graduate school? (100 words max.)
+
+## What motivated you to pursue graduate school?
 
 My original motivation to pursue graduate school is that I wanted to dramatically change my career, and to spend time in the field of technology and design that I am interested in. Four years ago at my admission, I was expecting to earn a degree and some new skills so that I can find a good job after graduation. But after consistent learning, discovering, trying and failing, I am lucky enough to find myself on the path toward discovering and pursuing my intrinsic interest, which brings me more enjoyment and satisfaction than the extrinsic motivations such as degree or job. For me, that’s the serendipity of being at graduate school.
 
@@ -50,7 +50,7 @@ Previous before admission to SIAT, I received my Doctor of Medicine (MD) in Neur
 Doing research in the interdisciplinary field of AI, HCI and medicine also meets my interests pretty well. I enjoy the problem-solving process which is a common attribute in research, medicine and programming. I love the human focus in medicine and HCI. For example, my PhD thesis deals with how doctors use AI, and how to design AI for doctor-AI collaboration. I am also very interested in the human mind, that’s why I chose Neurology in the first place as my specialty in medical training. And AI is another approach by reverse engineering the neural network. My thesis is engaged in understanding the decision-making process for both natural intelligence (the doctors) and artificial intelligence, and how can both AI and doctors learn better by explaining.
 
 
-[^self-determination theory]: Ryan, R. M. & Deci, E. L. Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. Am. Psychol. 55, 68–78 (2000).
+[^sdt]: Ryan, R. M. & Deci, E. L. Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. Am. Psychol. 55, 68–78 (2000).
 
 
 
