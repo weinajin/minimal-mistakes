@@ -8,9 +8,9 @@ tags:
 ---
 
 
-1. Pearl, J. & Mackenzie, D. The book of why : the new science of cause and effect.
+## Pearl, J. & Mackenzie, D. The book of why : the new science of cause and effect.
 
-Apr26 - May5
+- Apr26 - May5
 
 I know this book from another book "possible minds" where Pearl talked about the limitations of opaque learning machines. I was fascinated by the examples Pearl gives about the transparent-vs-opacity contrast of Greek and Babylonian astronomers. Although Babylonian astronomers were masters of black-box predictions and had better accuracy to their Greek rivals. Greek astronomers, in contrast, use wild modelling strategy with metaphorical imagery. Such a model- rather than a function-based approach incubates the modern astronomy. Similar cases also occur repetitively in history, such as why the science is not born in China, instead of in the west, although the ancient Chinese has advanced the knowledge in nature. But such knowledge is only for application purpose, not for scientific discovery which requires generalization and abstraction of such knowledge.
 
@@ -18,9 +18,9 @@ The above examples are good motivations for explanation requirements in model ML
 
 ---
 
-1. Darwiche, A. Human-Level Intelligence or Animal-Like Abilities? (2017).
+## Darwiche, A. Human-Level Intelligence or Animal-Like Abilities? (2017).
 
-May2
+- May2
 
 This is a high-level commentary work from the conversation of the authors with many other people in and outside AI communities, on the current trends in AI. I get to know this work from Pearl's "the book of why". It sees the current deep learning trend as the curve fitting for the cognition functions (vision, language, speech recognition). It negates the recent progress in DL and contributes them to merely the improvement of computational power and data (which is true. It points out that NN is invented long ago).
 
