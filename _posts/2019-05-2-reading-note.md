@@ -13,9 +13,9 @@ tags:
 
 I read over the 1st chapter and scan through ch 2 and 3. In chapter one, it proposed 3 visions of human rationality:
 
-SEU (subjective expected utility) model: it is similar to game theory (and the one used in robots and AI), that a decision maker choose among the alternative actions the one that will **maximize the expected value** in terms Of its utility function, by foreseeing and assign a consistent joint probability distribution to all future sets of events. Although elegant, SEU has never been employed in reality, because "human beings have neither the facts nor the consistent structure of values, nor the reasoning Power at their disposal that would be required".
+1. SEU (subjective expected utility) model: it is similar to game theory (and the one used in robots and AI), that a decision maker choose among the alternative actions the one that will **maximize the expected value** in terms Of its utility function, by foreseeing and assign a consistent joint probability distribution to all future sets of events. Although elegant, SEU has never been employed in reality, because "human beings have neither the facts nor the consistent structure of values, nor the reasoning Power at their disposal that would be required".
 
-2. The admits the fact that human rationality is very limited, very much bounded by the situation and by human computational powers. Compared with SEU, bounded rationality is more valid on how human makes decisions. This theory Illustrated how human process limited computational abilities, make adaptive choices, and sometimes survive in a complex, but mostly empty, world.
+2. The behavioural model, or bounded rationality. It admits the fact that human rationality is very limited, very much bounded by the situation and by human computational powers. Compared with SEU, bounded rationality is more valid on how human makes decisions. This theory Illustrated how human process limited computational abilities, make adaptive choices, and sometimes survive in a complex, but mostly empty, world.
 
 3. The intuitive model. This one, to me, is very similar to Daniel Kahneman's fast thinking system (in contrast, the bounded rationality is to the slow thinking system). Simon also regards it as a component of the behavioural model.
 
@@ -27,7 +27,7 @@ I also scan through Simon's another two papers on bounded rationality.
 
 > Broadly stated, the task is to replace the global rationality of economic man with a kind of rational behaviour that is compatible with the access to information and the computationalmarcinski that are actually possessed by organisms, including man, in the kinds of environments in which Such organisms exist.
 
-The model of the actual decision process is similar to a minimax game based on game theory. It substitutes the actual alternatives with the "considered" alternatives, and regards the pay-off (utility) as satisfactory outcome.
+The model of the actual decision process is similar to but a simplified version of a minimax game based on game theory. It substitutes the actual alternatives with decision maker's "considered" alternatives, and regards the pay-off (utility) as satisfactory outcome (not a global optimization process). The decision maker behaves rationally w.r.t the simplified model.
 
 
 - Simon, H. A. Rational choice and the structure of the environment. (1956).
@@ -36,7 +36,12 @@ It states that evidently, organisms adapt well enough to "satisfice" (using very
 
 I was hoping to find unified theory on human decision making, and it seems such an attempt will be quite invalid since decision-making is quite a big topic umbrella. I guess in medical decision making, this will be the same.
 
-I am also thinking, maybe XAI can fit within the bounded rationality, by extending the computational power with human-AI collaboration and XAI, ie, by explaining the reasonings from AI, human can be equipped with more capability to process big data and go deeper Into the future to acquire the utility function and joint probability, which human cannot process without the assistance of AI.
+I am also thinking, maybe XAI can fit within the bounded rationality, by extending decision-maker's simplified rational model and adding more knowledge with explanations from AI's big data processing and knowledge inferencing abilities. By explaining the reasonings from AI, human can be equipped with better capability to process big data and go deeper into the future to acquire the utility function and joint probability, which human cannot process without the assistance of AI.
+
+Other References:
+- https://plato.stanford.edu/entries/bounded-rationality/
+- https://en.wikiquote.org/wiki/Bounded_rationality
+- https://multi-act.com/bounded-rationality-unbounded-confidence/
 
 ---
 
