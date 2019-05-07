@@ -13,7 +13,7 @@ tags:
 
 I read over the 1st chapter and scan through ch 2 and 3. In chapter one, it proposed 3 visions of human rationality:
 
-1. SEU (subjective expected utility) model: it is similar to game theory (and the one used in robots and AI), that a decision maker choose among the alternative actions the one that will **maximize the expected value** in terms Of its utility function, by foreseeing and assign a consistent joint probability distribution to all future sets of events. Although elegant, SEU has never been employed in reality, because "human beings have neither the facts nor the consistent structure of values, nor the reasoning Power at their disposal that would be required".
+1. SEU (subjective expected utility) model: it is similar to game theory (and the one used in robots and AI), that a decision maker choose among the alternative actions the one that will **maximize the expected value** in terms of its utility function, by foreseeing and assign a consistent joint probability distribution to all future sets of events. Although elegant, SEU has never been employed in reality, because "human beings have neither the facts nor the consistent structure of values, nor the reasoning Power at their disposal that would be required".
 
 2. The behavioural model, or bounded rationality. It admits the fact that human rationality is very limited, very much bounded by the situation and by human computational powers. Compared with SEU, bounded rationality is more valid on how human makes decisions. This theory Illustrated how human process limited computational abilities, make adaptive choices, and sometimes survive in a complex, but mostly empty, world.
 
