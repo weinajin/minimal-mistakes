@@ -7,6 +7,38 @@ tags:
   - paper reading
 ---
 
+## Simon, H. A. (Herbert A. Reason in human affairs. (Stanford University Press, 1983).
+
+- May6
+
+I read over the 1st chapter and scan through ch 2 and 3. In chapter one, it proposed 3 visions of human rationality:
+
+SEU (subjective expected utility) model: it is similar to game theory (and the one used in robots and AI), that a decision maker choose among the alternative actions the one that will **maximize the expected value** in terms Of its utility function, by foreseeing and assign a consistent joint probability distribution to all future sets of events. Although elegant, SEU has never been employed in reality, because "human beings have neither the facts nor the consistent structure of values, nor the reasoning Power at their disposal that would be required".
+
+2. The admits the fact that human rationality is very limited, very much bounded by the situation and by human computational powers. Compared with SEU, bounded rationality is more valid on how human makes decisions. This theory Illustrated how human process limited computational abilities, make adaptive choices, and sometimes survive in a complex, but mostly empty, world.
+
+3. The intuitive model. This one, to me, is very similar to Daniel Kahneman's fast thinking system (in contrast, the bounded rationality is to the slow thinking system). Simon also regards it as a component of the behavioural model.
+
+In ch2, Simon sees an evolutional model of rationality does not do global **optimization** (everything is evolving to some stationary optimal state). Instead, there is lots of local **adaptation** to the current environment and its continually moving .
+
+I also scan through Simon's another two papers on bounded rationality.
+
+- Simon, H. A. A Behavioral Model of Rational Choice. (1955).
+
+> Broadly stated, the task is to replace the global rationality of economic man with a kind of rational behaviour that is compatible with the access to information and the computationalmarcinski that are actually possessed by organisms, including man, in the kinds of environments in which Such organisms exist.
+
+The model of the actual decision process is similar to a minimax game based on game theory. It substitutes the actual alternatives with the "considered" alternatives, and regards the pay-off (utility) as satisfactory outcome.
+
+
+- Simon, H. A. Rational choice and the structure of the environment. (1956).
+
+It states that evidently, organisms adapt well enough to "satisfice" (using very simple perceptual and choice mechanisms); they do not, in general, "optimize."
+
+I was hoping to find unified theory on human decision making, and it seems such an attempt will be quite invalid since decision-making is quite a big topic umbrella. I guess in medical decision making, this will be the same.
+
+I am also thinking, maybe XAI can fit within the bounded rationality, by extending the computational power with human-AI collaboration and XAI, ie, by explaining the reasonings from AI, human can be equipped with more capability to process big data and go deeper Into the future to acquire the utility function and joint probability, which human cannot process without the assistance of AI.
+
+---
 
 ## Pearl, J. & Mackenzie, D. The book of why : the new science of cause and effect.
 
