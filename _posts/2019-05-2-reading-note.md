@@ -7,15 +7,56 @@ tags:
   - paper reading
 ---
 
+
+## May8 Mixed-initiative interaction, HCI + AI mix
+
+
+- Horvitz, E. Principles of Mixed-Initiative User Interfaces.
+
+- Allen, J. E., Guinn, C. I. & Horvtz, E. Mixed-initiative interaction. IEEE Intell. Syst. 14, 14–23 (1999).
+
+    > Mixed-initiative interaction is a flexible interaction strategy in which each agent (human or computer) contributes what it is best suited at the most appropriate time.
+
+    - Form the interaction within a diaglogue framework, the AI agent need to have a good timing for inferring the state of other, underst the grounding, listening and interrupting.
+
+    - Eric Horvitz refers to the expected utility, which coincide with my yesterday's readings on decision-making. After reading [his interview](https://www.microsoft.com/en-us/research/blog/ai-and-our-future-with-machines-eric-horvitz/) and [bio](http://erichorvitz.com/), I came to know he is also fascinated by intellilgence, and got a MD and PhD in AI. He is also the PI in the following CHI 2019 paper:
+
+- Amershi, S. et al. Guidelines for Human-AI Interaction.
+
+### Riedl, M. O. Human-Centered Artificial Intelligence and Machine Learning. (2019).
+
+- AI and ML systems need a theory of mind about humans.
+
+- XAI allow non-ML-expert to seek remedy in critical situations.
+
+
+- Ehsan et al. (2019) show that human-like rationales.
+
+
+- It mentioned one approach of current XAI is post-hoc explanation: "
+translate the internal state of an autonomous agent into the natural language
+explanations in the corpus". While I'm reading this and its context, I am thinking: maybe
+the brain using a similar system for human-human explanation? i.e. although we don't know exactly what's going on inside the neuron activities, the brain develops a good mechanism to generate rationales from those neuron activities at a macro level (motivation, emotional reaction, thoughts).
+
+
+Additional readings:
+
+[Eric Horvitz's interview on AI, decision-making, and human-AI collaboration
+](https://www.microsoft.com/en-us/research/blog/ai-and-our-future-with-machines-eric-horvitz/)
+
+[AI autumn by Jeffrey Bigham](http://jeffreybigham.com/blog/2019/the-coming-ai-autumnn.html) on a mix of HCI and AI for human-AI collaboration
+
+---
+
 ## Simon, H. A. (Herbert A. Reason in human affairs. (Stanford University Press, 1983).
 
 - May6
 
 I read over the 1st chapter and scan through ch 2 and 3. In chapter one, it proposed 3 visions of human rationality:
 
-1. SEU (subjective expected utility) model: it is similar to game theory (and the one used in robots and AI), that a decision maker choose among the alternative actions the one that will **maximize the expected value** in terms of its utility function, by foreseeing and assign a consistent joint probability distribution to all future sets of events. Although elegant, SEU has never been employed in reality, because "human beings have neither the facts nor the consistent structure of values, nor the reasoning Power at their disposal that would be required".
+1. SEU (subjective expected utility) model: it is similar to game theory (and the one used in robots and AI), that a decision maker choose among the alternative actions the one that will **maximize the expected value** in terms of its utility function, by foreseeing and assign a consistent joint probability distribution to all future sets of events. Although elegant, SEU has never been employed in reality, because "human beings have neither the facts nor the consistent structure of values, nor the reasoning power at their disposal that would be required".
 
-2. The behavioural model, or bounded rationality. It admits the fact that human rationality is very limited, very much bounded by the situation and by human computational powers. Compared with SEU, bounded rationality is more valid on how human makes decisions. This theory Illustrated how human process limited computational abilities, make adaptive choices, and sometimes survive in a complex, but mostly empty, world.
+2. The behavioural model, or bounded rationality. It admits the fact that human rationality is very limited, very much bounded by the situation and by human computational powers. Compared with SEU, bounded rationality is more valid on how human makes decisions. This theory illustrated how human process limited computational abilities, make adaptive choices, and sometimes survive in a complex, but mostly empty, world.
 
 3. The intuitive model. This one, to me, is very similar to Daniel Kahneman's fast thinking system (in contrast, the bounded rationality is to the slow thinking system). Simon also regards it as a component of the behavioural model.
 
