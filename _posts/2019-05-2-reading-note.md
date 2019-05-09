@@ -23,21 +23,39 @@ tags:
 
 - Amershi, S. et al. Guidelines for Human-AI Interaction.
 
-### Riedl, M. O. Human-Centered Artificial Intelligence and Machine Learning. (2019).
+    They used a iterative design approach to develop the guideline, first by reviewing from online blogs, papers, etc. and use affinity diagramming process to clustering into several main points. Based on it, they do an internal evaluation, and an external evaluation that ask participants to align the guidelines to specific products. Then after the user study, the experts refine the guidelines based on the user feedback.
 
-- AI and ML systems need a theory of mind about humans.
+    In contrast, in Wang, D., Yang, Q., Abdul, A. & Lim, B. Y. Designing Theory-Driven User-Centric Explainable AI, they used similar approach: lit. review --> practice design based on the guideline. They did not evaluate and iterate the guideline explicitly as in the above paper.
 
-- XAI allow non-ML-expert to seek remedy in critical situations.
+- Riedl, M. O. Human-Centered Artificial Intelligence and Machine Learning. (2019).
+
+    - AI and ML systems need a theory of mind about humans.
+
+    - XAI allow non-ML-expert to seek remedy in critical situations.
 
 
-- Ehsan et al. (2019) show that human-like rationales.
+    - Ehsan et al. (2019) show that human-like rationales.
 
 
-- It mentioned one approach of current XAI is post-hoc explanation: "
-translate the internal state of an autonomous agent into the natural language
-explanations in the corpus". While I'm reading this and its context, I am thinking: maybe
-the brain using a similar system for human-human explanation? i.e. although we don't know exactly what's going on inside the neuron activities, the brain develops a good mechanism to generate rationales from those neuron activities at a macro level (motivation, emotional reaction, thoughts).
+    - It mentioned one approach of current XAI is post-hoc explanation: "
+    translate the internal state of an autonomous agent into the natural language
+    explanations in the corpus". While I'm reading this and its context, I am thinking: maybe
+    the brain using a similar system for human-human explanation? i.e. although we don't know exactly what's going on inside the neuron activities, the brain develops a good mechanism to generate rationales from those neuron activities at a macro level (motivation, emotional reaction, thoughts).
 
+- Höök, K. Steps to take before intelligent user interfaces become real. Interact. Comput. 12, 409–426 (2000).
+
+    - glass box level: "build adequate mental models and provide useful focus for collaborative discussions and the social construction of knowledge."
+
+    - The tool should be to produce glass boxes, i.e. connect users to the real world. For the principles of IUI design, three transparency (or glass-box) level:
+
+        1. domain transparency:
+        allow the user/learner to see through the
+        tool and see the domain behind it.
+        2. Internal transparency is that user can see through the tool into its internal working.
+        3. embedding transparency: refers to the whole environment in which the tool is going to be used.
+
+    - Expectation management.
+    - Sense of control.
 
 Additional readings:
 
