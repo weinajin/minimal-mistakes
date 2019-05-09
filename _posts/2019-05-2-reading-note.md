@@ -97,10 +97,15 @@ I was hoping to find unified theory on human decision making, and it seems such 
 
 I am also thinking, maybe XAI can fit within the bounded rationality, by extending decision-maker's simplified rational model and adding more knowledge with explanations from AI's big data processing and knowledge inferencing abilities. By explaining the reasonings from AI, human can be equipped with better capability to process big data and go deeper into the future to acquire the utility function and joint probability, which human cannot process without the assistance of AI.
 
-Other References:
-- https://plato.stanford.edu/entries/bounded-rationality/
-- https://en.wikiquote.org/wiki/Bounded_rationality
-- https://multi-act.com/bounded-rationality-unbounded-confidence/
+- Other References:
+    - https://plato.stanford.edu/entries/bounded-rationality/
+    - https://en.wikiquote.org/wiki/Bounded_rationality
+    - https://multi-act.com/bounded-rationality-unbounded-confidence/
+
+
+- [Somewhere Over the Rainbow: An Empirical Assessment of Quantitative Colormaps. Yang Liu and Jeffrey Heer. CHI 2018](https://idl.cs.washington.edu/files/2018-QuantitativeColor-CHI.pdf)
+
+    How to choose colormap? This paper compares different heatmap color. They recommend viridis, single hue, or orange-blue. The rainbow color works the worst.
 
 ---
 
