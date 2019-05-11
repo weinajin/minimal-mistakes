@@ -8,6 +8,28 @@ tags:
 ---
 
 
+## Ilyas, A. et al. Adversarial Examples Are Not Bugs, They Are Features. (2019).
+
+- May11
+
+It shows the adversarial examples from a different perspective other than caused by the high-dimensional nature of the input space. It shows the adversarial examples are actually as important as the robust features (human interpretable features) that help classifier to achieve accuracy. To show this, they conduct 2 experiments:
+1. disentangle robust features from non-robust ones in the dataset: the first adversarially train a model (robust model), and then construct the dataset with its features are optimized to minimize the features from the robust model (3.1 of the paper). I didn't quite get the details and should revisit it.
+2. construct datasets which the label are associated with the non-robust features.
+
+The theoretical analysis looks nice but I haven't got time to get into it.
+
+This has implication to interpretable DL, in that the current post-hoc paradigm to explain the model's decision takes into account the robust and non-robust features together, according to the paper. Thus the generated explanations, although try to maximize the form to make sense to humans, may not be faithful to the model's underlying decision-making. The authors mentioned the interpretable approach should be creating inherently models that encoding human priors into the training process, which coincidence with my previous intended approach in XAI.
+
+
+[The article in gradient science](http://gradientscience.org/adv/) has an interesting metaphor from a larger perspective of the aliens from a distant planet. The evolutions of DL is under the selection pressure of humans. Because of the selection pressure from the accuracy (enforced by human needs and competitions), the models are forced to "misalignment between the (human-specified) notion of robustness and the inherent geometry of the data".
+
+> adversarial vulnerability as a purely human-centric
+phenomenon
+
+> Our findings prompt us to view adversarial examples as a fundamentally human phenomenon. In particular, we should not be surprised that classifiers exploit highly predictive features that happen to be non-robust under a human-selected notion of similarity, given such features exist in real-world datasets.
+
+
+---
 ## May8 Mixed-initiative interaction, HCI + AI mix
 
 
