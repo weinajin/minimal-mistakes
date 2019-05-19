@@ -8,6 +8,14 @@ tags:
 ---
 
 
+## Yarkoni, T. & Westfall, J. Choosing Prediction Over Explanation in Psychology: Lessons From Machine Learning. Perspect. Psychol. Sci. 12, 1100–1122 (2017).
+
+- May19
+
+This is an interesting opinion from psychology. It criticizes the traditional paradigm in psychology that trying to explain the phenomenon but not be able to precisely predict them. Traditional psychology tries to identify a few critical factors which assume to be addictive (linear) to a holistic model. However, since the psychological phenomenon is the results of complex systems, the main research paradigm does not model, or lacks such statistical tools to model the complex non-linear interactions among multiple variables. The author suggested a machine-learning paradigm that models and predicts the complex system without explanation. The author also mentioned the interpretability of the machine learning models. It leads me to come up with an interesting idea of **using explainable machine learning *for both prediction and explanation*, as a replacement of building the traditional linear models for explanation only**. Specifically, instead of direct modelling the explanation (important factors) using linear statistical tools (which suffers from overfitting), we can build machine learning models for prediction, and on top of the predictive model, build explainable models for scientific understanding and intervention.
+
+---
+
 ## Ilyas, A. et al. Adversarial Examples Are Not Bugs, They Are Features. (2019).
 
 - May11
