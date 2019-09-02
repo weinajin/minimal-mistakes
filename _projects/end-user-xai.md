@@ -3,6 +3,8 @@ title: "End-user-centred explainable AI"
 excerpt: "A usability study to identify physicians’ needs and requirements of explainable artificial intelligence
 <br/><img src='/images/end_user_xai_cartoon.jpg'>"
 collection: projects
+permalink: /end-user-xai.html
+
 ---
 
 ![end-user-xai-cartoon](/images/end_user_xai_cartoon.jpg)
