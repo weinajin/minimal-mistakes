@@ -30,6 +30,6 @@ Previous I received my **Doctor of Medicine (MD)** degree and had worked in the 
   - These efforts aim to make the AI-based tools to be fully implemented in neuro-oncology to significantly improve the care of patients with gliomas.
 
 
-**Jin, W.**, Carpendale, S., Hamarneh, G., & Gromala, D. (2019). **Bridging AI Developers and End Users: an End-User-Centred Explainable AI Taxonomy and Visual Vocabularies**. IEEE VIS 2019 Conference Poster Abstract.
+**Jin, W.**, Carpendale, S., Hamarneh, G., & Gromala, D. (2019). **Bridging AI Developers and End Users: an End-User-Centred Explainable AI Taxonomy and Visual Vocabularies**. IEEE VIS 2019 Conference Poster Abstract. [Best Poster Design Award]
 [Paper](/files/Bridging AI Developers and End Users--an End-User-Centred Explainable AI Taxonomy and Visual Vocabularies.pdf) [Poster](/files/201910_IEEE_VIS_poster.pdf)
   - It summarizes three user-friendly forms to explain AI's decision to end users: explaining using *features*, *examples*, and *rules*.
