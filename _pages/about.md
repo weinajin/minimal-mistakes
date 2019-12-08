@@ -16,7 +16,7 @@ I am conducting a [Doctor AI usability study][31331d16] to understand physicians
 
 ## About Weina
 
-Hi, I'm Weina. I'm a PhD student working on **interpretable AI (artificial intelligence)**, and how to use it to augment doctors' **clinical decision making**.
+Hi, I'm Weina. I'm a PhD student working on **interpretable AI (artificial intelligence)**, and how to use it to augment doctors' **clinical decision making** based on **medical image** tasks.
 <!-- It is interdisciplinary research among AI, computer vision, information visualization (InfoVis), human-computer interaction (HCI), and medicine. An explanation is a two-way communication/interaction between AI system and its users, that's where HCI and InfoVis come in. -->
 I'm especially interested in using explanations for better learning, for both AI (enable AI to learn better by forcing explicit representation) and doctors (learn from those explicit representations to accumulate experience from big clinical data).
 
