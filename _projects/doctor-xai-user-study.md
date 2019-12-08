@@ -13,7 +13,7 @@ permalink: /doctor-ai.html
 - To participate in the study, you must be a **medical doctor** and is actively practicing medicine.
 - This is a 1-hour interview study to talk about your needs and requirements for medical AI. You will be compensated for **$100 CAD** as appreciation for your time and effort.
 - Your participation will facilitate the technical development of AI that better supports doctors' work.
-- The study will be held at a time and location that is convenient for you, either face-to-face, or online videoconferencing meeting (i.e.: using Skype or Hangouts).
+- The study will be held at a time and location that is convenient for you, either face-to-face, or via Skype/Hangouts/FaceTime.
 - Recruitment period: Dec 2019 - May 2021.
 - The study is conducted by Weina Jin, MD. from Simon Fraser University. It is approved by Simon Fraser University Research Ethics Board (Ethics number: 2019s0108).
 
