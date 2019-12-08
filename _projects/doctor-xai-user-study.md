@@ -1,5 +1,5 @@
 ---
-title: "Doctor need analysis for explainable AI"
+title: "Doctor AI study: understanding doctors' needs for explainable AI"
 excerpt: "A usability study to identify physicians’ needs and requirements of explainable artificial intelligence
 <br/><img src='/images/user_need_study.jpg'>"
 collection: projects
