@@ -26,7 +26,7 @@ Previous I received my **Doctor of Medicine (MD)** degree and had worked in the 
 ## Publications
 **Jin, W.**, Fatehi, M., Abhishek, K., Mallya, M., Toyota, B., & Hamarneh, G. (2019). **Applying Artificial Intelligence to Glioma Imaging: Advances and Challenges**. arXiv:1911.12886. [Paper](https://arxiv.org/pdf/1911.12886.pdf)  
 
-<img src="/images/brain_review_paper_outline.jpg" alt="brain_review_paper_outline" style="float: left;" width="400"/>
+<img src="/images/brain_review_paper_outline.jpg" alt="brain_review_paper_outline" style="float: right;" width="400"/>
   - It summarizes the recent technical advances to overcome the practical challenges of applying AI to glioma imaging.
   - These challenges involve the full life-cycle of developing an AI model, from obtaining the training data, to training the AI models, to evaluating and deploying the AI model to clinical settings.
   - These efforts aim to make the AI-based tools to be fully implemented in neuro-oncology to significantly improve the care of patients with gliomas.
@@ -34,5 +34,5 @@ Previous I received my **Doctor of Medicine (MD)** degree and had worked in the 
 
 **Jin, W.**, Carpendale, S., Hamarneh, G., & Gromala, D. (2019). **Bridging AI Developers and End Users: an End-User-Centred Explainable AI Taxonomy and Visual Vocabularies**. IEEE VIS 2019 Conference Poster Abstract. *[Best Poster Design Award]*
 [Paper](/files/Bridging AI Developers and End Users--an End-User-Centred Explainable AI Taxonomy and Visual Vocabularies.pdf) [Poster](/files/201910_IEEE_VIS_poster.pdf)
-<img src="/images/end_user_xai_image.jpg" alt="end_user_xai_image" style="float: left;" width="400"/>
+<img src="/images/end_user_xai_image.jpg" alt="end_user_xai_image" style="float: right;" width="400"/>
   - It summarizes three user-friendly forms to explain AI's decision to end users: explaining using *features*, *examples*, and *rules*.
