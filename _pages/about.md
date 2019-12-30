@@ -28,7 +28,7 @@ Previous I received my **Doctor of Medicine (MD)** degree and had worked in the 
 
 <img src="/images/brain_review_paper_outline.jpg" alt="brain_review_paper_outline" style="float: right;" width="400"/>
   - It summarizes the recent technical advances that aim to make AI to be fully implemented in neuro-oncology.
-  - These challenges involve the full life-cycle of developing an AI model, from obtaining the training data, to training the AI models, to evaluating and deploying the AI model to clinical settings.
+  - These challenges involve the full life-cycle of developing an AI model, from obtaining the training data, to training the AI models, to evaluating and deploying the AI model in clinical settings.
 
 
 **Jin, W.**, Carpendale, S., Hamarneh, G., & Gromala, D. (2019). **Bridging AI Developers and End Users: an End-User-Centred Explainable AI Taxonomy and Visual Vocabularies**. IEEE VIS 2019 Conference Poster Abstract. *[Best Poster Design Award]*
