@@ -25,7 +25,7 @@ Previous I received my **Doctor of Medicine (MD)** degree and had worked in the 
 
 ## Publications
 **Jin, W.**, Fatehi, M., Abhishek, K., Mallya, M., Toyota, B., & Hamarneh, G. (2019). **Applying Artificial Intelligence to Glioma Imaging: Advances and Challenges**. arXiv:1911.12886. [Paper](https://arxiv.org/pdf/1911.12886.pdf)  
-![brain_review_paper_outline](/images/brain_review_paper_outline.jpg)
+<img src="/images/brain_review_paper_outline.jpg" alt="brain_review_paper_outline" width="200"/>
 
   - It summarizes the recent technical advances to overcome the practical challenges of applying AI to glioma imaging.
   - These challenges involve the full life-cycle of developing an AI model, from obtaining the training data, to training the AI models, to evaluating and deploying the AI model to clinical settings.
