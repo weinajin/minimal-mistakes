@@ -15,7 +15,7 @@ permalink: /doctor-ai.html
 - Your participation will facilitate the technical development of AI that better supports doctors' work.
 - The study will be held at a time and location that is convenient for you, either face-to-face, or via Skype/Hangouts/FaceTime.
 - The study is conducted by Weina Jin, MD. from Simon Fraser University. It is approved by Simon Fraser University Research Ethics Board (Ethics number: 2019s0108).
-- Recruitment period: Dec 2019 - May 2021.
+- Recruitment period: Dec 2019 - May 2020.
 
 ![doctor-ai-user-stuy-poster](/images/doctor_ai_recruitment_poster.jpg)
 
