@@ -7,12 +7,6 @@ redirect_from:
 ---
 
 
-**News**
-
-I am conducting a [Doctor AI usability study][31331d16] to understand physicians’ needs and requirements of explainable AI. If you are a **physician** and are interested in participating, please feel free to contact me.
-
-  [31331d16]: https://weina.me/doctor-ai.html "doctor XAI user study"
-
 
 ## About Weina
 
