@@ -30,6 +30,6 @@ Previous I received my **Doctor of Medicine (MD)** degree and had worked in the 
 
 
 **Jin, W.**, Carpendale, S., Hamarneh, G., & Gromala, D. (2019). **Bridging AI Developers and End Users: an End-User-Centred Explainable AI Taxonomy and Visual Vocabularies**. IEEE VIS 2019 Conference Poster Abstract. *[Best Poster Design Award]*
-[Paper](/files/Bridging AI Developers and End Users--an End-User-Centred Explainable AI Taxonomy and Visual Vocabularies.pdf) [Poster](/files/201910_IEEE_VIS_poster.pdf)
+[Paper](/files/Bridging AI Developers and End Users--an End-User-Centred Explainable AI Taxonomy and Visual Vocabularies.pdf) [Poster](/files/201910_IEEE_VIS_poster.pdf) [Video Abstract](https://www.youtube.com/watch?v=b5JnaSG1AYM)
 <img src="/images/end_user_xai_image.jpg" alt="end_user_xai_image" style="float: right;" width="400"/>
   - It summarizes three user-friendly forms to explain AI's decision to end users: explaining using *features*, *examples*, and *rules*.
