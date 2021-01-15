@@ -19,7 +19,7 @@ Previous I received my **Doctor of Medicine (MD)** degree and had worked in the 
 
 ## News 
 
-* 2021-01-01 I launched the End-User-Centered Explainable AI framework EUCA website: [https://weina.me/end-user-xai](https://weina.me/end-user-xai). EUCA is a practical prototyping tool to design explainable AI for non-technical end-users
+* 2021-01-01 I launched the End-User-Centered Explainable AI framework EUCA website: [https://weina.me/end-user-xai](https://weina.me/end-user-xai). EUCA is a practical prototyping tool to design explainable AI for non-technical end-users.
 
 ## Publications
 **Jin, W.**, Fatehi, M., Abhishek, K., Mallya, M., Toyota, B., & Hamarneh, G. (2020). **Artificial intelligence in glioma imaging: challenges and advances**. *Journal of Neural Engineering*. [doi: 10.1088/1741-2552/ab8131](https://iopscience.iop.org/article/10.1088/1741-2552/ab8131). arXiv:1911.12886. [Paper](https://arxiv.org/pdf/1911.12886.pdf), [Video Abstract](https://www.youtube.com/watch?v=i2rX6NSH27k)
