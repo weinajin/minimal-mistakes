@@ -17,6 +17,10 @@ I'm especially interested in using explanations for better learning, for both AI
 Previous I received my **Doctor of Medicine (MD)** degree and had worked in the hospital, pharmaceutical and tech company. Now besides my research in training and making sense of artificial intelligence, in my life I am engaged in training and understanding natural intelligence, and writing science fictions.
 
 
+## News 
+
+* 2021-01-01 I launched the End-User-Centered Explainable AI framework EUCA website: \[https://weina.me/end-user-xai\](https://weina.me/end-user-xai). EUCA is a practical prototyping tool to design explainable AI for non-technical end-users |
+
 ## Publications
 **Jin, W.**, Fatehi, M., Abhishek, K., Mallya, M., Toyota, B., & Hamarneh, G. (2019). **Applying Artificial Intelligence to Glioma Imaging: Advances and Challenges**. arXiv:1911.12886. [Paper](https://arxiv.org/pdf/1911.12886.pdf)  
 
