@@ -8,7 +8,7 @@ redirect_from:
 
 
 
-## About Weina
+# About Weina
 
 Hi, I'm Weina. I'm a PhD student working on **interpretable AI (artificial intelligence)**, and how to use it to augment doctors' **clinical decision making** based on **medical image** tasks.
 <!-- It is interdisciplinary research among AI, computer vision, information visualization (InfoVis), human-computer interaction (HCI), and medicine. An explanation is a two-way communication/interaction between AI system and its users, that's where HCI and InfoVis come in. -->
@@ -19,7 +19,7 @@ Previous I received my **Doctor of Medicine (MD)** degree and had worked in the 
 
 ## News 
 
-* 2021-01-01 I launched the End-User-Centered Explainable AI framework EUCA website: \[https://weina.me/end-user-xai\](https://weina.me/end-user-xai). EUCA is a practical prototyping tool to design explainable AI for non-technical end-users |
+* 2021-01-01 I launched the End-User-Centered Explainable AI framework EUCA website: [https://weina.me/end-user-xai](https://weina.me/end-user-xai). EUCA is a practical prototyping tool to design explainable AI for non-technical end-users
 
 ## Publications
 **Jin, W.**, Fatehi, M., Abhishek, K., Mallya, M., Toyota, B., & Hamarneh, G. (2019). **Applying Artificial Intelligence to Glioma Imaging: Advances and Challenges**. arXiv:1911.12886. [Paper](https://arxiv.org/pdf/1911.12886.pdf)  
