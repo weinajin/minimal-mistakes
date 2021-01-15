@@ -22,14 +22,14 @@ Previous I received my **Doctor of Medicine (MD)** degree and had worked in the 
 * 2021-01-01 I launched the End-User-Centered Explainable AI framework EUCA website: [https://weina.me/end-user-xai](https://weina.me/end-user-xai). EUCA is a practical prototyping tool to design explainable AI for non-technical end-users
 
 ## Publications
-**Jin, W.**, Fatehi, M., Abhishek, K., Mallya, M., Toyota, B., & Hamarneh, G. (2020). **Artificial intelligence in glioma imaging: challenges and advances**. *Journal of neural engineering* [doi: 10.1088/1741-2552/ab8131](https://iopscience.iop.org/article/10.1088/1741-2552/ab8131). arXiv:1911.12886. [Paper](https://arxiv.org/pdf/1911.12886.pdf), [Video Abstract](https://www.youtube.com/watch?v=i2rX6NSH27k)
+**Jin, W.**, Fatehi, M., Abhishek, K., Mallya, M., Toyota, B., & Hamarneh, G. (2020). **Artificial intelligence in glioma imaging: challenges and advances**. *Journal of neural engineering*. [doi: 10.1088/1741-2552/ab8131](https://iopscience.iop.org/article/10.1088/1741-2552/ab8131). arXiv:1911.12886. [Paper](https://arxiv.org/pdf/1911.12886.pdf), [Video Abstract](https://www.youtube.com/watch?v=i2rX6NSH27k)
 
 <img src="/images/brain_review_paper_outline.jpg" alt="brain_review_paper_outline" style="float: right;" width="400"/>
   - It summarizes the recent technical advances that aim to make AI implementable in neuro-oncology.
   - These challenges involve the full life-cycle of developing an AI model, from obtaining the training data, to training the AI models, to evaluating and deploying the AI model in clinical settings.
 
 
-**Jin, W.**, Carpendale, S., Hamarneh, G., & Gromala, D. (2019). **Bridging AI Developers and End Users: an End-User-Centred Explainable AI Taxonomy and Visual Vocabularies**. IEEE VIS 2019 Conference Poster Abstract. *[Best Poster Design Award]*
+**Jin, W.**, Carpendale, S., Hamarneh, G., & Gromala, D. (2019). **Bridging AI Developers and End Users: an End-User-Centred Explainable AI Taxonomy and Visual Vocabularies**. *IEEE VIS 2019 Conference Poster Abstract*. **[Best Poster Design Award]**
 [Paper](/files/Bridging AI Developers and End Users--an End-User-Centred Explainable AI Taxonomy and Visual Vocabularies.pdf) [Poster](/files/201910_IEEE_VIS_poster.pdf) [Video Abstract](https://www.youtube.com/watch?v=b5JnaSG1AYM)
 <img src="/images/end_user_xai_image.jpg" alt="end_user_xai_image" style="float: right;" width="400"/>
   - It summarizes three user-friendly forms to explain AI's decision to end users: explaining using *features*, *examples*, and *rules*.
