@@ -37,7 +37,7 @@ Previous I received my **Doctor of Medicine (MD)** degree and had worked in the 
 **EUCA: the End-User-Centered Explainable AI Prototyping Framework**. **Weina Jin**, Jianyu Fan, Diane Gromala, Philippe Pasquier, Ghassan Hamarneh (2020). (In Submission to TOCHI). 
 [arXiv:2102.02437](https://arxiv.org/abs/2102.02437). [Project Website](http://https://weina.me/end-user-xai)
 
-<img src="/images/EUCA.png" alt="End-User-Centered Explainable AI Prototyping Framework" style="float: right;" width="400"/>
+<img src="/images/EUCA.png" alt="End-User-Centered Explainable AI Prototyping Framework" style="float: right;" height="200"/>
   - Help AI and explainable AI designers and practitioners to understand end-users' requirements for explainable AI.
   - Provide prototyping workflow/examples/templates to enable explainable AI designers and researchers to quickly design/iterate XAI prototypes.
 
