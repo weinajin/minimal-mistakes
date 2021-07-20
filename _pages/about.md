@@ -19,7 +19,7 @@ Previous I received my **Doctor of Medicine (MD)** degree and had worked in the 
 
 ## News 
 
-* 2021-07 Our paper is <a href="http://weina.me/one-map-not-fit-all" target="_blank">One Map Does Not Fit All: Evaluating Saliency Map Explanation on Multi-Modal Medical Images</a> is accepted as the <a href="https://sites.google.com/view/imlh2021/" target="_blank">Spotlight paper of ICML 2021 Workshop: Interpretable Machine Learning in Healthcare.</a>
+* 2021-07 Our paper <a href="http://weina.me/one-map-not-fit-all" target="_blank">One Map Does Not Fit All: Evaluating Saliency Map Explanation on Multi-Modal Medical Images</a> is accepted as the <a href="https://sites.google.com/view/imlh2021/" target="_blank">Spotlight paper of ICML 2021 Workshop: Interpretable Machine Learning in Healthcare.</a>
 
 * 2021-01-01 I launched the End-User-Centered Explainable AI framework EUCA website: [https://weina.me/end-user-xai](https://weina.me/end-user-xai). EUCA is a practical prototyping tool to design explainable AI for non-technical end-users.
 
