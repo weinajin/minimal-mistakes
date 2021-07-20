@@ -16,11 +16,14 @@ Xiaoxiao Li, Department of Electrical and Computer Engineering, The University o
 
 Ghassan Hamarneh, Medical Imaging Analysis Lab, School of Computing Science, Simon Fraser University
 
+<a href="https://arxiv.org/abs/2107.05047" target="_blank">Arxiv Paper</a>
+<a href="https://youtu.be/J-ceZ20cBJk" target="_blank">Video paper presentation (Spotlight of ICML 2021 Workshop: Interpretable Machine Learning in Healthcare)</a>
+<a href="https://docs.google.com/presentation/d/1cQbQOxqihgm5QpdeUGFdabnY9ulVnRt2D7GtYbK_Kv0/edit?usp=sharing" target="_blank">Slides</a>
 
-[Arxiv Paper](https://arxiv.org/abs/2107.05047) |  [Video paper presnetation (Spotlight of ICML 2021 Workshop: Interpretable Machine Learning in Healthcare)](https://youtu.be/J-ceZ20cBJk) | [Slides](https://docs.google.com/presentation/d/1cQbQOxqihgm5QpdeUGFdabnY9ulVnRt2D7GtYbK_Kv0/edit?usp=sharing) 
 
-Poster
 ![Multi_modal_image_explanation](/images/poster_One Map Does Not Fit All_Evaluating Saliency Map Explanation on Multi-Modal Medical Images.png)
+
+The current work-in-progress paper is accepted by <a href="https://sites.google.com/view/imlh2021/" target="_blank">ICML 2021 Workshop: Interpretable Machine Learning in Healthcare</a> as a spotlight paper.
 
 
 ## Introduction
@@ -51,10 +54,10 @@ Our evaluations show that although most saliency map methods captured modality i
 We propose the clinically motivated problem to the technical community: Explain on multi-modal medical images the clinical problem of explaining multi modality medical images to the technical community.
 
 We also propose the evaluation metric MSFI and conducted experiments to evaluate saliency maps regarding their abilities to fulfill clinical requirements. Based on MSFI metric, there are discrepancies between current saliency map methods and the clinical requirements for multi-modal image explanation.
-Significance
+
+## Significance
 
 The application of MSFI could help to evaluate and select the saliency map method before clinical deployment, and  also provides clinical insights for the proposal of new AI method, such as those that incorporate clinical requirements on multi-modal image explanation into the model training.
 
 
-The current work-in-progress paper is accepted by [ICML 2021 Workshop: Interpretable Machine Learning in Healthcare](https://sites.google.com/view/imlh2021/) as spotlight paper.
 
