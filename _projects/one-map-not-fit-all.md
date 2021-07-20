@@ -16,13 +16,16 @@ Xiaoxiao Li, Department of Electrical and Computer Engineering, The University o
 Ghassan Hamarneh, Medical Imaging Analysis Lab, School of Computing Science, Simon Fraser University
 
 <a href="https://arxiv.org/abs/2107.05047" target="_blank">Arxiv Paper</a>
+
 <a href="https://youtu.be/J-ceZ20cBJk" target="_blank">Video paper presentation (Spotlight of ICML 2021 Workshop: Interpretable Machine Learning in Healthcare)</a>
+
 <a href="https://docs.google.com/presentation/d/1cQbQOxqihgm5QpdeUGFdabnY9ulVnRt2D7GtYbK_Kv0/edit?usp=sharing" target="_blank">Slides</a>
+
+The current work-in-progress paper is accepted by <a href="https://sites.google.com/view/imlh2021/" target="_blank">ICML 2021 Workshop: Interpretable Machine Learning in Healthcare</a> as a spotlight paper.
 
 
 ![Multi_modal_image_explanation](/images/poster_One Map Does Not Fit All_Evaluating Saliency Map Explanation on Multi-Modal Medical Images.png)
 
-The current work-in-progress paper is accepted by <a href="https://sites.google.com/view/imlh2021/" target="_blank">ICML 2021 Workshop: Interpretable Machine Learning in Healthcare</a> as a spotlight paper.
 
 
 ## Introduction
