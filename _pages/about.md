@@ -27,22 +27,23 @@ Previous I received my **Doctor of Medicine (MD)** degree and had worked in the 
 ## Preprints and Work-In-Progress
 
 
-**One Map Does Not Fit All: Evaluating Saliency Map Explanation on Multi-Modal Medical Images**. 
+### **One Map Does Not Fit All: Evaluating Saliency Map Explanation on Multi-Modal Medical Images**. 
 
-**Weina Jin**, Xiaoxiao Li, Ghassan Hamarneh (2021). <a href="https://sites.google.com/view/imlh2021/" target="_blank">Spotlight paper of ICML 2021 Workshop: Interpretable Machine Learning in Healthcare.</a>
-[arXiv:2107.05047](https://arxiv.org/abs/2107.05047). [Video](https://youtu.be/J-ceZ20cBJk). [Project Website](http://weina.me/one-map-not-fit-all)
+**Weina Jin**, Xiaoxiao Li, Ghassan Hamarneh (2021). 
+[arXiv:2107.05047](https://arxiv.org/abs/2107.05047). [Video](https://youtu.be/J-ceZ20cBJk). [Project Website](http://weina.me/one-map-not-fit-all).
+<a href="https://sites.google.com/view/imlh2021/" target="_blank">Spotlight paper of ICML 2021 Workshop: Interpretable Machine Learning in Healthcare.</a>
 
 <img src="/images/poster_ thumbnail_One Map Does Not Fit All_Evaluating Saliency Map Explanation on Multi-Modal Medical Images.png" alt="Evaluating Multi-Modal Medical Image Explanation" style="float: right;" height="200"/>
   - Propose the problem of multi-modal medical image explanation.
   - Propose the evaluation metric MSFI and conducted experiments to evaluate saliency maps regarding their abilities to fulfill clinical requirements for multi-modal medical image explanation.
 
-**EUCA: the End-User-Centered Explainable AI Prototyping Framework**. 
+### **EUCA: the End-User-Centered Explainable AI Prototyping Framework**. 
 
 **Weina Jin**, Jianyu Fan, Diane Gromala, Philippe Pasquier, Ghassan Hamarneh (2020). (In Submission to TOCHI). 
 [arXiv:2102.02437](https://arxiv.org/abs/2102.02437). [Project Website](http://https://weina.me/end-user-xai)
 
 <img src="/images/EUCA.png" alt="End-User-Centered Explainable AI Prototyping Framework" style="float: right;" height="200"/>
-  - Help AI and explainable AI designers and practitioners to understand end-users' requirements for explainable AI.
+  - Help explainable AI designers and practitioners to understand end-users' requirements for explainable AI.
   - Provide prototyping workflow/examples/templates to enable explainable AI designers and researchers to quickly design/iterate XAI prototypes.
 
 ## Publications
