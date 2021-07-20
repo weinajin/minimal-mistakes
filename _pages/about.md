@@ -19,9 +19,31 @@ Previous I received my **Doctor of Medicine (MD)** degree and had worked in the 
 
 ## News 
 
+* 2021-07 Our paper is <a href="http://weina.me/one-map-not-fit-all" target="_blank">One Map Does Not Fit All: Evaluating Saliency Map Explanation on Multi-Modal Medical Images</a> is accepted as the <a href="https://sites.google.com/view/imlh2021/" target="_blank">Spotlight paper of ICML 2021 Workshop: Interpretable Machine Learning in Healthcare.</a>
+
 * 2021-01-01 I launched the End-User-Centered Explainable AI framework EUCA website: [https://weina.me/end-user-xai](https://weina.me/end-user-xai). EUCA is a practical prototyping tool to design explainable AI for non-technical end-users.
 
+
+## Preprints and Work-In-Progress
+
+
+**Weina Jin**, Xiaoxiao Li, Ghassan Hamarneh (2021). **One Map Does Not Fit All: Evaluating Saliency Map Explanation on Multi-Modal Medical Images**. <a href="https://sites.google.com/view/imlh2021/" target="_blank">Spotlight paper of ICML 2021 Workshop: Interpretable Machine Learning in Healthcare.</a>
+[arXiv:2107.05047](https://arxiv.org/abs/2107.05047). [Video](https://youtu.be/J-ceZ20cBJk). [Project Website](http://weina.me/one-map-not-fit-all)
+
+<img src="/images/poster_ thumbnail_One Map Does Not Fit All_Evaluating Saliency Map Explanation on Multi-Modal Medical Images.png" alt="Evaluating Multi-Modal Medical Image Explanation" style="float: right;" width="400"/>
+  - Propose the problem of multi-modal medical image explanation.
+  - Propose the evaluation metric MSFI and conducted experiments to evaluate saliency maps regarding their abilities to fulfill clinical requirements for multi-modal medical image explanation.
+
+**EUCA: the End-User-Centered Explainable AI Prototyping Framework**. (In Submission to TOCHI). 
+[arXiv:2102.02437](https://arxiv.org/abs/2102.02437). [Project Website](http://https://weina.me/end-user-xai)
+
+<img src="/images/EUCA.prg" alt="End-User-Centered Explainable AI Prototyping Framework" style="float: right;" width="400"/>
+  - Help AI and explainable AI designers and practitioners to understand end-users' requirements for explainable AI.
+  - Provide prototyping workflow/examples/templates to enable explainable AI designers and researchers to quickly design/iterate XAI prototypes.
+
 ## Publications
+
+
 **Jin, W.**, Fatehi, M., Abhishek, K., Mallya, M., Toyota, B., & Hamarneh, G. (2020). **Artificial intelligence in glioma imaging: challenges and advances**. *Journal of Neural Engineering*. [doi: 10.1088/1741-2552/ab8131](https://iopscience.iop.org/article/10.1088/1741-2552/ab8131). [arXiv:1911.12886](https://arxiv.org/abs/1911.12886). [Paper](https://arxiv.org/pdf/1911.12886.pdf), [Video Abstract](https://www.youtube.com/watch?v=i2rX6NSH27k)
 
 <img src="/images/brain_review_paper_outline.jpg" alt="brain_review_paper_outline" style="float: right;" width="400"/>

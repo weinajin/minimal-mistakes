@@ -1,13 +1,11 @@
 ---
-title: "End-user-centred explainable AI"
+title: "EUCA: the End-User-Centered Explainable AI Prototyping Framework"
 excerpt: "A usability study to identify physicians’ needs and requirements of explainable artificial intelligence
 <br/><img src='/images/end_user_xai_cartoon.jpg'>"
 collection: projects
 permalink: /end-user-xai.html
 
 ---
-
-# EUCA: the End-User-Centered Explainable AI Prototyping Framework
 
 EUCA website: [http://weina.me/end-user-xai](http://weinajin.github.io/end-user-xai)
 
