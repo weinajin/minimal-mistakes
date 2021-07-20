@@ -6,7 +6,6 @@ collection: projects
 permalink: /one-map-not-fit-all.html
 
 ---
-# One Map Does Not Fit All: Evaluating Multi-Modal Image Explanation
 
 ## Author
 
